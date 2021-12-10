@@ -1,0 +1,21 @@
+.container{
+text-align: center;
+border-style: solid;
+border-color: blue;
+border-radius:100px;
+width: 500px;
+height: 180px;
+margin-left: 400px;
+margin-top: 200px;
+}
+
+h1{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+#alert { color: red;
+    font-family: serif;
+    font-size: 25px;
+}
